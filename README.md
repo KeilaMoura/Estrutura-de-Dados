@@ -1,2 +1,2 @@
 # Estrutura-de-Dados
-Implementação de Pilhas, Filas e Listas Encadeadas na linguagem C++.
+Este projeto consiste na mplementação de Pilhas, Filas e Listas Encadeadas na linguagem C++.
